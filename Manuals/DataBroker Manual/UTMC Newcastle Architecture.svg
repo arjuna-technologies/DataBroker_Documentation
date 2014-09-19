@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1052.3622"
+   height="744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="UTMC Newcastle Architecture.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="610.67266"
+     inkscape:cy="372.90883"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="746"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.2677)">
+    <rect
+       style="fill:none;stroke:#2e3436;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2985"
+       width="208"
+       height="406"
+       x="68.840622"
+       y="494.18555"
+       ry="2.7382812e-005" />
+    <rect
+       style="fill:none;stroke:#2e3436;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2987"
+       width="205"
+       height="404"
+       x="397.84061"
+       y="493.18555"
+       ry="2.7382812e-005" />
+    <rect
+       style="fill:none;stroke:#2e3436;stroke-width:4;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2989"
+       width="223"
+       height="408"
+       x="755.84064"
+       y="492.18555"
+       ry="2.7382812e-005" />
+    <rect
+       style="fill:none;stroke:#2e3436;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:8, 8;stroke-dashoffset:0"
+       id="rect2993"
+       width="86"
+       height="150"
+       x="128.42641"
+       y="529.03125"
+       ry="2.7382812e-005" />
+    <rect
+       style="fill:none;stroke:#2e3436;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:8, 8;stroke-dashoffset:0"
+       id="rect2995"
+       width="95"
+       height="188"
+       x="452.42639"
+       y="502.27383"
+       ry="2.7382812e-005" />
+    <rect
+       style="fill:none;stroke:#2e3436;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:8, 8;stroke-dashoffset:0"
+       id="rect2997"
+       width="102"
+       height="265"
+       x="816.34064"
+       y="563.68555"
+       ry="2.7382812e-005" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="81.937302"
+       y="475.18555"
+       id="text2999"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3001"
+         x="81.937302"
+         y="475.18555"
+         style="font-size:20px">UTMC - Newcastle</tspan></text>
+    <rect
+       style="fill:none;stroke:#2e3436;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:8, 8;stroke-dashoffset:0"
+       id="rect2993-1"
+       width="86"
+       height="150"
+       x="128.11984"
+       y="717.14685"
+       ry="2.7382812e-005" />
+    <rect
+       style="fill:none;stroke:#2e3436;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:8, 8;stroke-dashoffset:0"
+       id="rect2995-7"
+       width="95"
+       height="188"
+       x="453.13159"
+       y="700.97534"
+       ry="2.7382812e-005" />
+  </g>
+</svg>

@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="External View.svg"
+   sodipodi:docname="Data Cloud Overview.svg"
    inkscape:export-filename="C:\Users\swheater\Dropbox\Work\DataCloudCommunity\Architectural and Design Document\External View.png"
    inkscape:export-xdpi="300.04547"
    inkscape:export-ydpi="300.04547">
@@ -27,16 +27,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="290.11049"
-     inkscape:cy="167.84938"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="464.22207"
+     inkscape:cy="266.94053"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:window-width="1366"
      inkscape:window-height="746"
      inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-y="892"
      inkscape:window-maximized="1"
      fit-margin-top="16"
      fit-margin-left="16"
@@ -68,7 +68,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -674,7 +674,7 @@
        style="fill:#fce94f">
       <path
          style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#fce94f;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-         d="m 512.21875,923.45579 -0.4375,0.90625 56,27.625 0.4375,-0.90625 -56,-27.625 z"
+         d="m 512.21875,923.45579 -0.4375,1.04101 56,31.73288 0.4375,-1.04101 -56,-31.73288 z"
          id="path4289"
          inkscape:connector-curvature="0" />
       <path
@@ -688,7 +688,7 @@
        style="fill:#fce94f">
       <path
          style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#fce94f;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-         d="m 567.78125,975.08079 -72,36.50001 0.4375,0.9062 72,-36.49996 -0.4375,-0.90625 z"
+         d="m 567.78125,971.19171 -72,40.12229 0.4375,0.9962 72,-40.12231 -0.4375,-0.99618 z"
          id="path4291"
          inkscape:connector-curvature="0" />
       <path
@@ -705,16 +705,16 @@
        sodipodi:nodetypes="ccccc" />
     <g
        id="g4514"
-       style="fill:#fce94f">
+       style="fill:#fce94f;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
       <path
-         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#fce94f;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
-         d="m 144,1179.862 0,1 80,0 0,-1 -80,0 z"
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#fce94f;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+         d="m 144,1179.3193 0,2.3241 80,0 0,-2.3241 -80,0 z"
          id="path4320"
          inkscape:connector-curvature="0" />
       <path
          inkscape:connector-curvature="0"
-         d="m 218.76885,1177.9419 6.55552,2.4107 -6.55552,2.4106 c 1.0473,-1.4233 1.04126,-3.3705 0,-4.8213 z"
-         style="fill:#fce94f;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="m 214.48313,1175.3029 11.82338,5.1119 -11.82338,5.1117 c 1.88889,-3.0181 1.878,-7.1473 0,-10.2236 z"
+         style="fill:#fce94f;fill-rule:evenodd;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
          id="path4520" />
     </g>
     <path

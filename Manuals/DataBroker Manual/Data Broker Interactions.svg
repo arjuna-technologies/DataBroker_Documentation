@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1314.2483"
+   height="705.53406"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="Server Interactions.svg"
+   inkscape:export-filename="C:\Users\swheater\Dropbox\Work\DataCloudCommunity\Architectural and Design Document\Server Interactions.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="391.52741"
+     inkscape:cy="324.13011"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="746"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     fit-margin-top="16"
+     fit-margin-left="16"
+     fit-margin-right="16"
+     fit-margin-bottom="16"
+     inkscape:snap-grids="true"
+     inkscape:snap-to-guides="false"
+     objecttolerance="10000"
+     guidetolerance="10000"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2987"
+       empspacing="8"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       originx="80.5px"
+       originy="-174.96596px"
+       spacingx="16px"
+       spacingy="16px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(80.5,-171.86218)">
+    <rect
+       style="fill:#8ae234;fill-opacity:1;stroke:#888a85;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2985"
+       width="256"
+       height="224"
+       x="64"
+       y="412.36218"
+       ry="2.7382812e-005" />
+    <rect
+       style="fill:#fce94f;fill-opacity:1;stroke:#888a85;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2985-1"
+       width="256"
+       height="223.99985"
+       x="64"
+       y="636.36218"
+       ry="2.7382812e-005" />
+    <rect
+       style="fill:#729fcf;fill-opacity:1;stroke:#888a85;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2985-7"
+       width="256"
+       height="224"
+       x="64"
+       y="188.36218"
+       ry="2.7382812e-005" />
+    <rect
+       style="fill:#fce94f;fill-opacity:1;stroke:#888a85;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2985-4-0-9"
+       width="256"
+       height="223.99997"
+       x="832"
+       y="636.36218"
+       ry="2.7382812e-005" />
+    <rect
+       style="fill:#8ae234;fill-opacity:1;stroke:#888a85;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2985-4"
+       width="256"
+       height="224"
+       x="832"
+       y="412.36218"
+       ry="2.7382812e-005" />
+    <rect
+       style="fill:#729fcf;fill-opacity:1;stroke:#888a85;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2985-7-8"
+       width="256"
+       height="224"
+       x="832"
+       y="188.36218"
+       ry="2.7382812e-005" />
+    <path
+       style="fill:#fce94f;fill-opacity:1;stroke:#888a85;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 304.50008,576.58117 c 133.33333,0 250.66667,0 384,0 l 0,-48 80,96 -80,96 0,-48 c -133.33333,0 -250.66667,0 -384,0 0,-32 0,-64 0,-96 z"
+       id="path3115"
+       inkscape:connector-curvature="0"
+       transform="translate(47.499922,123.78101)"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       style="fill:#8ae234;fill-opacity:1;stroke:#888a85;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 352,476.36218 c 133.33262,0.47842 250.66673,0.25121 384,0.25121 l 0,-48 80,96 -80,96 0,-48 c -133.33361,-0.0159 -250.667,0.16747 -384,-0.25121 0,-32 0,-64 0,-96 z"
+       id="path3115-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
+    <path
+       style="fill:#729fcf;fill-opacity:1;stroke:#888a85;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 415.49492,204.8646 0,48 320,0 0,-48 80,96 -80,96 0,-48 -320,0 0,48 L 336,300.36218 z"
+       id="path3115-8-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="449.9584"
+       y="538.91028"
+       id="text3153"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3155"
+         x="449.9584"
+         y="538.91028">Meta-Data</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="518.25525"
+       y="762.65906"
+       id="text3157"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3159"
+         x="518.25525"
+         y="762.65906">Data</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="404.72403"
+       y="315.7767"
+       id="text3161"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3163"
+         x="404.72403"
+         y="315.7767">Business Data</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="191.83594"
+       y="511.51843"
+       id="text3153-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3155-5"
+         x="191.83594"
+         y="511.51843">Meta-Data</tspan><tspan
+         sodipodi:role="line"
+         x="191.83594"
+         y="571.51843"
+         id="tspan3954">Source</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="959.83594"
+       y="511.51843"
+       id="text3153-4-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3155-5-1"
+         x="959.83594"
+         y="511.51843">Meta-Data</tspan><tspan
+         sodipodi:role="line"
+         x="959.83594"
+         y="571.51843"
+         id="tspan3954-7">Sink</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="959.83594"
+       y="735.51843"
+       id="text3153-4-5-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3155-5-1-1"
+         x="959.83594"
+         y="735.51843">Data</tspan><tspan
+         sodipodi:role="line"
+         x="959.83594"
+         y="795.51843"
+         id="tspan3954-7-5">Sink</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="191.69531"
+       y="735.51837"
+       id="text3153-4-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3155-5-7"
+         x="191.69531"
+         y="735.51837">Data</tspan><tspan
+         sodipodi:role="line"
+         x="191.69531"
+         y="795.51837"
+         id="tspan3954-6">Source</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="190.92188"
+       y="283.60437"
+       id="text3153-4-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3155-5-74"
+         x="190.92188"
+         y="283.60437">Policy</tspan><tspan
+         sodipodi:role="line"
+         x="190.92188"
+         y="343.60437"
+         id="tspan3954-0">Engine</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="958.92188"
+       y="283.60437"
+       id="text3153-4-1-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3155-5-74-4"
+         x="958.92188"
+         y="283.60437">Policy</tspan><tspan
+         sodipodi:role="line"
+         x="958.92188"
+         y="343.60437"
+         id="tspan3954-0-8">Engine</tspan></text>
+    <rect
+       style="fill:#888a85;fill-opacity:1;stroke:#888a85;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2985-7-1"
+       width="128"
+       height="672"
+       x="-64"
+       y="188.3622"
+       ry="2.7382812e-005" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="-671.25671"
+       y="17.894531"
+       id="text3034"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,-1,1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3036"
+         x="-671.25671"
+         y="17.894531"
+         style="font-size:48px;fill:#eeeeec;stroke:none">Data Broker</tspan></text>
+    <rect
+       style="fill:#888a85;fill-opacity:1;stroke:#888a85;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2985-7-1-7"
+       width="128"
+       height="672"
+       x="1089.2483"
+       y="188.89624"
+       ry="2.7382812e-005" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="378.57312"
+       y="-1136.2109"
+       id="text3034-4"
+       sodipodi:linespacing="125%"
+       transform="matrix(0,1,-1,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3036-0"
+         x="378.57312"
+         y="-1136.2109"
+         style="font-size:48px;fill:#eeeeec;stroke:none">Data Broker</tspan></text>
+  </g>
+</svg>
